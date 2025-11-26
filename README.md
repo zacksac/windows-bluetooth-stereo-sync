@@ -1,5 +1,5 @@
 # windows-bluetooth-stereo-sync (music)
-Turn any  two bluetooth speakers into a synchronized stereo sound system on windows .
+Turn and play together  any  two bluetooth speakers into a synchronized stereo sound system on windows .
 
 Download exe direct from release page . 
 https://github.com/zacksac/windows-bluetooth-stereo-sync/releases/tag/v.1.0
