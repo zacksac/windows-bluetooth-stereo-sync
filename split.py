@@ -9,7 +9,7 @@ import webbrowser
 
 CONFIG_FILE = 'audio_splitter_config.json'
 APP_VERSION = "1.0.0"
-CONTACT_EMAIL = "your_email@example.com"  # <--- CHANGE THIS TO YOUR EMAIL
+CONTACT_EMAIL = "zacksactest1@gmail.com"  # <--- CHANGE THIS TO YOUR EMAIL
 
 # ---------------- CONFIG LOAD/SAVE ----------------
 def load_config():
@@ -391,4 +391,5 @@ class SplitterApp:
 if __name__ == "__main__":
     root = tk.Tk()
     app = SplitterApp(root)
+
     root.mainloop()
