@@ -22,7 +22,11 @@ If you enjoy using SplitSync, you can support development on Ko-fi!
 </a>
 
 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
+DEMO
+<img width="749" height="667" alt="demo" src="https://github.com/user-attachments/assets/0d64f4cc-1082-472b-9134-68232ea68dbc" />
+
 
 
 For developers
