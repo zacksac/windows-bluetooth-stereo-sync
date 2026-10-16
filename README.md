@@ -2,7 +2,7 @@
 Turn and play together  any  two bluetooth speakers into a synchronized stereo sound system on windows .
 
 Download exe direct from release page . 
-https://github.com/zacksac/windows-bluetooth-stereo-sync/releases/tag/v.1.0
+
 https://github.com/zacksac/windows-bluetooth-stereo-sync/releases/download/v.1.0/audioparty.exe (Latest update with performance and fixes )
 
 1.  **Download the Driver:** [VB-Cable (Donationware)](https://vb-audio.com/Cable/)
